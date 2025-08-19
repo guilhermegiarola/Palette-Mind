@@ -21,3 +21,7 @@ Backend:
 
 LLM:
 - Llama 3.2 (locally hosted)
+
+**Running the application:**
+
+Backend: inside the main backend folder, run `python main.py`.
